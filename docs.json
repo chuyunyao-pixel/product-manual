@@ -319,7 +319,7 @@
                     ]
                   },
                   {
-                    "group": "Bills & Payments",
+                    "group": "Pricing Plans",
                     "pages": [
                       "en/portal/bills-and-payments/introduction",
                       "en/portal/bills-and-payments/purchase-pricing-plan",
@@ -327,11 +327,12 @@
                       "en/portal/bills-and-payments/manage-bills"
                     ]
                   },
-                  "en/portal/dashboard/introduction"
+                  "en/portal/dashboard/introduction",
+                  "en/portal/transaction-history/introduction"
                 ]
               },
               {
-                "group": "DEVELOPER CONSOLE",
+                "group": "DEVELOPER",
                 "pages": [
                   "en/portal/developer-console/introduction",
                   {
@@ -910,7 +911,7 @@
                     ]
                   },
                   {
-                    "group": "账单与支付",
+                    "group": "套餐方案",
                     "pages": [
                       "cn/portal/bills-and-payments/introduction",
                       "cn/portal/bills-and-payments/purchase-pricing-plan",
@@ -918,11 +919,12 @@
                       "cn/portal/bills-and-payments/manage-bills"
                     ]
                   },
-                  "cn/portal/dashboard/introduction"
+                  "cn/portal/dashboard/introduction",
+                  "cn/portal/transaction-history/introduction"
                 ]
               },
               {
-                "group": "开发者控制台",
+                "group": "开发者",
                 "pages": [
                   "cn/portal/developer-console/introduction",
                   {
